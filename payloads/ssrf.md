@@ -39,4 +39,8 @@ LOcalHOSt
 
 ```
 017700000001
-```  
+```
+
+```
+stockApi=http://127.0.1/%41dmin/delete?username=carlos
+```
